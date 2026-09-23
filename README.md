@@ -25,7 +25,7 @@ what's missing.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/security-headers-checker.git
+git clone https://github.com/RodneyRoger5/security-headers-checker.git
 cd security-headers-checker
 pip install -r requirements.txt
 ```
