@@ -1,0 +1,2 @@
+# .gitignore
+printf "__pycache__/\n*.pyc\nreport.json\n.env\n" > .gitignore
